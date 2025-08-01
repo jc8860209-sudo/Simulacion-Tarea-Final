@@ -9,7 +9,7 @@ import seaborn as sns
 random.seed(42)  # Para reproducibilidad
 TIEMPO_SIMULACION = 4 * 60 * 60  # 4 horas en segundos (de 11:00 a 15:20)
 CAPACIDAD_SALON_ROJO = 30
-CAPACIDAD_SALON_AZUL = 40
+CAPACIDAD_SALON_AZUL = 20
 
 # Funciones para generar tiempos aleatorios
 def tiempo_llegada():
