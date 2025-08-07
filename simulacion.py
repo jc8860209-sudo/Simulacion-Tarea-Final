@@ -3,6 +3,7 @@ import random
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import time 
 
 
 # Parámetros de la simulación
